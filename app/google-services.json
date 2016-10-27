@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "767936018999",
+    "firebase_url": "https://myacademiclife-f28a7.firebaseio.com",
+    "project_id": "myacademiclife-f28a7",
+    "storage_bucket": "myacademiclife-f28a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767936018999:android:568a96092da8504a",
+        "android_client_info": {
+          "package_name": "ehab.com.myacademiclife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767936018999-9dgad6lp2420c05ak431db13fj7f4fbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ehab.com.myacademiclife",
+            "certificate_hash": "599AA07B81BA80E648AA310C8ABFBCB4EB3C0494"
+          }
+        },
+        {
+          "client_id": "767936018999-su1cl2dtoebog2nlr24mq6svkggetm68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDARdTrx0DhnbqWyCUvaJ00JDxkj3fXnIA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767936018999-su1cl2dtoebog2nlr24mq6svkggetm68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
